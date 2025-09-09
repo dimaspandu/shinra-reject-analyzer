@@ -18,9 +18,18 @@ This categorization can help the system automatically decide whether a user need
 ## Features
 
 - Text analysis using **string matching** and **similarity scoring** (`dice-coefficient`)
-- Document categories: Registration, Vehicle, ID Card
-- Aggregated conclusion across multiple rejection reasons
-- Interactive demo application built with React
+- Categorize each reason into document types:
+  - Registration Document
+  - Vehicle Document
+  - ID Card
+- Display analysis results in a clear badge-style interface.
+- Fill examples for testing.
+
+---
+
+## Screenshot
+
+![Shinra Reject Analyzer](/public/screenshot.png)
 
 ---
 
