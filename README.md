@@ -15,6 +15,13 @@ This categorization can help the system automatically decide whether a user need
 
 ---
 
+## Live Demo
+
+Try the live demo of the analyzer here:  
+[Shinra Reject Analyzer Demo](https://shinrarejectanalyzer.netlify.app/)
+
+---
+
 ## Features
 
 - Text analysis using **string matching** and **similarity scoring** (`dice-coefficient`)
